@@ -1,363 +1,363 @@
 term,category,hasSyn,id,ext_id,remark
-abathochroal,structure,0,1,,
-acrolobe,structure,1,2,,
-adult,ontogeny,1,3,,
-advanced,position,0,4,,
-agnostina,taxon name,0,5,,
-agnostinae,taxon name,0,6,,
-angularity,orientation,0,7,,
-angulate,shape,0,8,,
-annulation,structure,0,9,,
-anopole_nus,taxon name,0,10,,
-antennae,structure,0,11,,
-anterior,position,0,12,,
-anteroaxis,structure,0,13,,
-anterolateral,position,0,14,,
-aperture,structure,0,15,,
-apodemal,structure,0,16,,
-arcuate,shape,0,17,,
-area,structure,1,18,,
-arthropod,taxon name,0,19,,
-arthropods,taxon name,0,20,,
-axial,position,0,21,,
-axiolobate,shape,0,22,,
-axis,structure,0,23,,
-baccula,structure,0,24,,
-backswept,orientation,0,25,,
-band,structure,1,26,,
-basal,position,0,27,,
-base,structure,1,28,,
-basic,prominence,0,29,,
-bella,structure,0,30,,
-belliceps,taxon name,0,31,,
-bending,shape,1,32,,
-bertillon,surface sculpture,0,33,,
-betwen,position,0,34,,
-biramous,shape,0,35,,
-bispinose,shape,0,36,,
-body,structure,0,37,,
-border,structure,1,38,,
-bosses,structure,0,39,,
-boundaries,structure,0,40,,
-branch,structure,1,41,,
-c,taxon name,0,42,,
-caecal,position,0,43,,
-cambrian,geological age,0,44,,
-centropleura,taxon name,0,45,,
-centropleuridae,taxon name,0,46,,
-cephalon,structure,0,47,,
-cephalothoracic,structure,0,48,,
-cheek,structure,1,49,,
-circumocular,structure,0,50,,
-clarella,structure,0,51,,
-clavat,shape,0,52,,
-close,position,1,53,,
-collar,structure,0,54,,
-concave,shape,0,55,,
-conical,shape,0,56,,
-connective,structure,0,57,,
-constricted,shape,0,58,,
-continuous,arrangement,0,59,,
-corynexochida,taxon name,0,60,,
-corynexochidae,taxon name,0,61,,
-cranidial,structure,0,62,,
-cranidium,structure,0,63,,
-cu_ticle,structure,0,64,,
-culmination,structure,0,65,,
-curved,shape,0,66,,
-cylindrical,shape,0,67,,
-d,taxon name,0,68,,
-deliquiate,shape,0,69,,
-denticles,structure,0,70,,
-depressed,shape,0,71,,
-depression,structure,1,72,,
-deuterolobate,shape,0,73,,
-deuterolobe,organ,0,74,,
-developed,prominence,0,75,,
-disc,structure,0,76,,
-discontinuous,position,0,77,,
-distal,position,0,78,,
-ditto,structure,0,79,,
-divergent,shape,0,80,,
-dolerolenus,taxon name,0,81,,
-dorsal,position,0,82,,
-doublure,structure,0,83,,
-downsloping,orientation,0,84,,
-drepanopyge,taxon name,0,85,,
-eccaparadoxides,taxon name,0,86,,
-edge,structure,0,87,,
-effaced,prominence,0,88,,
-ellipsocephaloidea,taxon name,0,89,,
-end,structure,1,90,,
-enlargement,size,0,91,,
-eodiscoid,structure,0,92,,
-eoredlichia,taxon name,0,93,,
-equal,size,0,94,,
-exoskeleton,structure,0,95,,
-expanded,size,1,96,,
-extraocular,structure,0,97,,
-extremities,structure,1,98,,
-eye,structure,1,99,,
-f1,structure,0,100,,
-f2,structure,0,101,,
-f3,structure,0,102,,
-face,structure,0,103,,
-facet,structure,1,104,,
-falcate,shape,0,105,,
-fallotaspidoidea,taxon name,0,106,,
-field,structure,1,107,,
-fixigena,structure,1,108,,
-fixigenal,orientation,0,109,,
-flange,structure,0,110,,
-flanks,structure,0,111,,
-flasklike,shape,0,112,,
-fossula,structure,0,113,,
-fourth,count,0,114,,
-front,position,0,115,,
-fulcral,position,0,116,,
-fulcrum,structure,0,117,,
-furrow,structure,1,118,,
-galbagnostus,taxon name,0,119,,
-gap,structure,0,120,,
-gena,structure,1,121,,
-genera,structure,0,122,,
-glabellar,position,0,123,,
-granule,structure,1,124,,
-granulose,surface sculpture,0,125,,
-groove,structure,1,126,,
-half,size,0,127,,
-hexagon,structure,0,128,,
-hexagonal,shape,0,129,,
-hindmost,position,0,130,,
-holaspi,taxon name,0,131,,
-holaspides,taxon name,0,132,,
-holaspis,taxon name,0,133,,
-holotype,structure,0,134,,
-hongshiyanaspis,taxon name,0,135,,
-hypagnostus,taxon name,0,136,,
-hypostome,structure,0,137,,
-impressed,shape,0,138,,
-in_dentations,structure,0,139,,
-incipient,prominence,0,140,,
-incomplete,preservation,0,141,,
-inella,taxon name,0,142,,
-innitagnostus,taxon name,0,143,,
-intergenal,position,0,144,,
-interpleural,position,0,145,,
-intranotular,position,0,146,,
-isopygous,size,0,147,,
-ivshin,structure,0,148,,
-k,taxon name,0,149,,
-keel,structure,0,150,,
-kepingaspis,taxon name,0,151,,
-kingstoniidae,taxon name,0,152,,
-knobs,structure,0,153,,
-l,structure,0,154,,
-l1,structure,0,155,,
-l2,structure,0,156,,
-l3,structure,0,157,,
-l4,structure,0,158,,
-la,structure,0,159,,
-large,size,0,160,,
-least,prominence,0,161,,
-lense,structure,1,162,,
-librigena,structure,1,163,,
-librigenal,position,0,164,,
-limb,structure,1,165,,
-line,structure,1,166,,
-lirae,structure,0,167,,
-lo,structure,0,168,,
-lobe,structure,1,169,,
-long,length,0,170,,
-lost,prominence,0,171,,
-lunate,shape,0,172,,
-m1,structure,0,173,,
-m2,structure,0,174,,
-macropleurae,structure,0,175,,
-macropleural,structure,0,176,,
-macrospinose,structure,0,177,,
-macu_lae,structure,0,178,,
-mallagnostus,structure,0,179,,
-margin,structure,1,180,,
-marginal,position,0,181,,
-markings,structure,0,182,,
-mayiella,taxon name,0,183,,
-medium,size,0,184,,
-meraspi,taxon name,0,185,,
-meraspis,taxon name,0,186,,
-metadoxides,taxon name,0,187,,
-metaredlichia,taxon name,0,188,,
-middle,structure,0,189,,
-midlength,position,0,190,,
-midmost,position,0,191,,
-moderate,size,0,192,,
-modified,prominence,0,193,,
-mold,structure,1,194,,
-morphology,character,0,195,,
-mouth,structure,0,196,,
-multisegmented,segmentation,0,197,,
-narrow,width,0,198,,
-natant,growth form,0,199,,
-no,prominence,0,200,,
-node,structure,1,201,,
-nonscrobiculate,surface sculpture,0,202,,
-nonspinose,surface sculpture,0,203,,
-notch,structure,0,204,,
-notular,position,0,205,,
-numbering,count,0,206,,
-occipital,position,0,207,,
-ocular,structure,0,208,,
-olenellina,taxon name,0,209,,
-olenellinid,taxon name,0,210,,
-one,count,0,211,,
-oodiscus,structure,0,212,,
-opisthoparian,structure,0,213,,
-opisthothorax,structure,0,214,,
-ornament,structure,0,215,,
-ovate,shape,0,216,,
-pagetia,taxon name,0,217,,
-pagetium,structure,0,218,,
-palpebral,structure,0,219,,
-papilionate,shape,0,220,,
-parabadiella,taxon name,0,221,,
-parabolic,shape,1,222,,
-paradoublural,structure,0,223,,
-paradoxididae,taxon name,0,224,,
-paratype,structure,0,225,,
-paratypes,structure,0,226,,
-part,structure,1,227,,
-perforations,structure,0,228,,
-peronopsis,taxon name,0,229,,
-perrostral,structure,0,230,,
-piece,structure,0,231,,
-pit,structure,1,232,,
-pitlike,shape,0,233,,
-plate,structure,0,234,,
-plectrum,structure,0,235,,
-pleura,structure,1,236,,
-pleural,structure,0,237,,
-plutonides,taxon name,0,238,,
-polygon,structure,1,239,,
-portion,structure,1,240,,
-postaxial,position,0,241,,
-posterior,position,0,242,,
-posteroaxis,structure,0,243,,
-preglabellar,position,0,244,,
-procranidial,position,0,245,,
-projection,structure,1,246,,
-proparian,position,0,247,,
-prosopon,structure,0,248,,
-protaspi,structure,0,249,,
-protaspide,structure,1,250,,
-protaspis,structure,0,251,,
-protrusion,structure,0,252,,
-pseudagnostines,taxon name,0,253,,
-pseudoborder,structure,0,254,,
-pseudopalpebral,structure,0,255,,
-pseudoresserops,taxon name,0,256,,
-pus_tules,structure,0,257,,
-pygidium,structure,1,258,,
-pygidial,position,0,259,,
-pygidum,structure,0,260,,
-rear,position,0,261,,
-rearwards,orientation,0,262,,
-redlichiidae,taxon name,0,263,,
-redlichia,taxon name,0,264,,
-redlichiina,taxon name,0,265,,
-region,structure,1,266,,
-rhaptagnostoid,structure,0,267,,
-rhaptagnostus,taxon name,0,268,,
-rib,structure,1,269,,
-ridge,structure,1,270,,
-ridgelike,shape,0,271,,
-rimlike,surface sculpture,0,272,,
-rings,structure,0,273,,
-rosette,structure,0,274,,
-rostral,position,0,275,,
-roundish,shape,0,276,,
-s,structure,0,277,,
-s2,structure,0,278,,
-s3,structure,0,279,,
-saukianda,taxon name,0,280,,
-scrobicule,structure,1,281,,
-sculpture,structure,0,282,,
-section,structure,1,283,,
-segment,segmentation,1,284,,
-segmentation,character,0,285,,
-semiankylosed,fusion,0,286,,
-semicircular,shape,0,287,,
-semielliptical,shape,0,288,,
-serrated,surface sculpture,0,289,,
-serrodiscus,taxon name,0,290,,
-shaped,shape,0,291,,
-shield,structure,1,292,,
-short,length,0,293,,
-shortened,size,0,294,,
-sided,structure,0,295,,
-sigmoidal,shape,0,296,,
-simplimarginate,shape,0,297,,
-sinuous,shape,0,298,,
-size,character,0,299,,
-sized,size,0,300,,
-slit,structure,0,301,,
-slitlike,shape,0,302,,
-small,size,0,303,,
-smooth,surface sculpture,0,304,,
-species,structure,0,305,,
-specimen,structure,1,306,,
-spectaculate,shape,0,307,,
-spine,structure,1,308,,
-spinose,surface sculpture,0,309,,
-spinulelike,shape,0,310,,
-straight,shape,0,311,,
-striations,structure,0,312,,
-striga,structure,0,313,,
-structure,character,0,314,,
-subcentral,position,0,315,,
-subcircular,shape,0,316,,
-subfamily,structure,0,317,,
-suborder,structure,0,318,,
-subparallel,shape,0,319,,
-subpyriform,shape,0,320,,
-subquadrate,shape,0,321,,
-subrounded,shape,0,322,,
-subtriangular,shape,0,323,,
-sulcus,structure,0,324,,
-superfamily,structure,0,325,,
-suture,structure,1,326,,
-swelling,structure,1,327,,
-tapering,shape,0,328,,
-tasagnostus,taxon name,0,329,,
-taxa,structure,0,330,,
-terminal,position,0,331,,
-terminations,structure,0,332,,
-terminus,structure,0,333,,
-terrace,position,0,334,,
-third,count,0,335,,
-thorax,structure,0,336,,
-thornlike,shape,0,337,,
-tip,structure,1,338,,
-transverse,orientation,0,339,,
-triangulaspi,taxon name,0,340,,
-triangulaspis,taxon name,0,341,,
-triannulate,shape,0,342,,
-trifid,shape,0,343,,
-trilobate,shape,0,344,,
-trilobite,taxon name,0,345,,
-trilobites,taxon name,0,346,,
-tripartite,position,0,347,,
-trisegmented,segmentation,0,348,,
-tubercle,structure,1,349,,
-uncalcified,surface sculpture,0,350,,
-undivided,fusion,0,351,,
-unfurrowed,structure,0,352,,
-ushbaspis,taxon name,0,353,,
-venter,structure,0,354,,
-weak,prominence,0,355,,
-wing,structure,1,356,,
-wutingaspis,taxon name,0,357,,
-yiliangella,taxon name,0,358,,
-yinites,taxon name,0,359,,
-yukoniidae,taxon name,0,360,,
-yunnanaspis,taxon name,0,361,,
-zonate,structure,0,362,,
+abathochroal,structure,0,1,8aff5351-ccf9-4aae-b8ea-619fb5ea0e70,""
+acrolobe,structure,1,2,3daa0cee-0b9d-479a-bfbe-b5fdf1ab60f1,""
+adult,ontogeny,1,3,e05b09dc-2ef3-46e6-a124-53b96b6cb4da,""
+advanced,position,0,4,4ec8fe6f-d1cb-4f40-a115-d352b90503b9,""
+agnostina,taxon name,0,5,6cbe7136-26cb-448f-9881-0dbbac5b3f5a,""
+agnostinae,taxon name,0,6,b1109a2a-9992-42fc-89b9-cad00c6bc830,""
+angularity,orientation,0,7,6f048afe-a027-4d38-ad8a-1c4491b45864,""
+angulate,shape,0,8,6dfa3d19-6536-49bb-b81a-eef77bd21bb6,""
+annulation,structure,0,9,0ccd4a0f-653a-4fdd-a71e-b97bfa58fcd3,""
+anopole_nus,taxon name,0,10,8e3b8788-78ff-419f-8be0-a3f0ffb7187b,""
+antennae,structure,0,11,a21acfb4-ab6a-43fe-a5af-af3c8a8a820b,""
+anterior,position,0,12,dfe1eb99-6797-4b06-b108-84a6e5c6b37c,""
+anteroaxis,structure,0,13,b4603b34-04bd-49c2-84e7-af64b0dedd5f,""
+anterolateral,position,0,14,e252bac4-a1da-4159-b4aa-09fb7fc0c20d,""
+aperture,structure,0,15,eda89fd6-2623-4d58-ae34-d565f12fcb81,""
+apodemal,structure,0,16,e9929103-f291-43ea-bc9a-787dbf1fc273,""
+arcuate,shape,0,17,cf6f5d37-67a1-45c6-b5ab-2cc72a123b7d,""
+area,structure,1,18,043ec0cf-5af3-4de4-88fb-fe556fe8b2fa,""
+arthropod,taxon name,0,19,d8c3ca66-2725-4dca-8fa2-e558e28c5ba1,""
+arthropods,taxon name,0,20,55fffc99-f7d9-44cd-8b1f-d83da6f0a2a4,""
+axial,position,0,21,9503974e-04c5-49d3-b7a1-10fa55c3281e,""
+axiolobate,shape,0,22,12c44ad3-bfc9-4bba-aa89-5f69a388e83c,""
+axis,structure,0,23,6054c4ab-b57f-456f-8625-f6ca9fdc6536,""
+baccula,structure,0,24,a045b8c3-b144-4d8d-9c43-ce15db87c20b,""
+backswept,orientation,0,25,09206521-a393-40a1-ae6b-6230fd3223ef,""
+band,structure,1,26,9f8fb3fe-ade7-47ba-b5a7-e126ce875aa4,""
+basal,position,0,27,936c384b-1828-40a3-8b02-451d847806a5,""
+base,structure,1,28,adf2f628-2c4e-40a4-95c9-8149ba24073c,""
+basic,prominence,0,29,de1f4868-63c7-44ef-a845-6b2f9ed80922,""
+bella,structure,0,30,0e7499b5-553e-4884-b58e-c3cc5b1721a7,""
+belliceps,taxon name,0,31,e3cf39a2-44ce-462d-b166-ebac1745667f,""
+bending,shape,1,32,cb5164f6-fdfc-45a9-875a-4636f33e8bdb,""
+bertillon,surface sculpture,0,33,73ab4af3-d824-44a0-b4a4-7bd4f47b3d7b,""
+betwen,position,0,34,e051335d-7bc6-4663-bae1-2267c836cd6a,""
+biramous,shape,0,35,5ef7f4cf-e814-44d0-871f-7d513caa5839,""
+bispinose,shape,0,36,6b20099d-3f42-4310-ab05-822521be4945,""
+body,structure,0,37,3c1ae153-a402-4238-ad67-903b8bfb2ece,""
+border,structure,1,38,6c60a678-a304-45a0-a776-3e36ffee570f,""
+bosses,structure,0,39,f50f47f7-0ccc-4570-bda9-ffa32d5539b2,""
+boundaries,structure,0,40,978c9832-c616-4ff4-94f6-266a8bf15df2,""
+branch,structure,1,41,a7a0b191-afe5-4b5f-b578-394022287617,""
+c,taxon name,0,42,e3678600-145d-4857-a29c-61853a70b363,""
+caecal,position,0,43,8a2ed3f4-5f46-4904-a73a-0f22ebfddd1a,""
+cambrian,geological age,0,44,98068725-176a-4bb1-95a7-1ceed665e141,""
+centropleura,taxon name,0,45,e819b002-283a-4b8b-bbac-083d15701277,""
+centropleuridae,taxon name,0,46,d71d4bb2-02cd-4e4c-9cf9-7f48751860c8,""
+cephalon,structure,0,47,a52bbcc8-37cb-425f-9938-0db254d44484,""
+cephalothoracic,structure,0,48,cdb6947e-1c56-44b6-8395-ddd56ca3df4f,""
+cheek,structure,1,49,9ceafc5f-f54b-483f-8d4f-75a86528c636,""
+circumocular,structure,0,50,4f1efe7c-54c4-4871-abd3-45e28f625c22,""
+clarella,structure,0,51,f6e603a2-6d65-432e-b716-0f03e54c9aa4,""
+clavat,shape,0,52,768b6fd1-c4cd-4409-b128-b6cdb07d4ebe,""
+close,position,1,53,1e4273f4-a227-47a4-8ccb-ec01b9048f81,""
+collar,structure,0,54,b62157f6-f46e-404d-8e72-51fb99e422a8,""
+concave,shape,0,55,a497e1b1-0cd5-4cda-87e0-d1e2848c45dc,""
+conical,shape,0,56,4d28a763-882c-4e3f-a4d7-3cd6a51048f2,""
+connective,structure,0,57,78648bd0-3cbe-46aa-a988-31c1c680ac6e,""
+constricted,shape,0,58,6748b622-a03c-4089-9377-73edd514511d,""
+continuous,arrangement,0,59,798aef2a-a956-4c27-8622-c5c4dbb3623e,""
+corynexochida,taxon name,0,60,006eb4d6-e77f-4488-bdbd-3178ea5d9cb5,""
+corynexochidae,taxon name,0,61,1a69e3d5-e183-4d6f-a425-b6c5dbd06f93,""
+cranidial,structure,0,62,ac01afc4-b23e-4251-812f-ee7e94586dd3,""
+cranidium,structure,0,63,0c197d54-04d1-48b2-95ad-c5a9a67b9e2d,""
+cu_ticle,structure,0,64,69cff60b-b57a-4f88-8d61-e27d63bcc5d0,""
+culmination,structure,0,65,d4a09c9d-5778-411c-9790-fc46b3474bef,""
+curved,shape,0,66,8a887f7b-1133-4f41-83cb-52ec685aac31,""
+cylindrical,shape,0,67,ddb68175-8a62-4ced-8614-fcf408be7935,""
+d,taxon name,0,68,fa341c2b-1b22-4f4d-a478-813bddd8d0e6,""
+deliquiate,shape,0,69,f9d34e83-d97a-4c28-803e-205a088ff4f6,""
+denticles,structure,0,70,c65c5936-dfc2-4a3e-b996-eee3b272938c,""
+depressed,shape,0,71,e79275bf-d1fd-4a7f-b38a-0a9659e0fe5f,""
+depression,structure,1,72,5e78c5b8-897c-49b6-8c40-965b7378fa2f,""
+deuterolobate,shape,0,73,61ab7f48-75c5-4b9a-b5cf-557591c504c1,""
+deuterolobe,organ,0,74,bf38b89a-fd36-4670-9a04-35d8980767b5,""
+developed,prominence,0,75,3a654420-8338-45d7-b8bf-0c8226f2f809,""
+disc,structure,0,76,8cf33c62-9497-4a5c-a81d-d64b5e9bc7c7,""
+discontinuous,position,0,77,7a4dc50d-5d70-445e-972d-5d2f25ee7b2a,""
+distal,position,0,78,bab704dd-8444-4860-a907-d0423d51b8c3,""
+ditto,structure,0,79,bdd3ed9e-7a38-4d93-945c-33b1ed4048e5,""
+divergent,shape,0,80,7cfc620d-71ee-4009-976c-5c21f1e168e2,""
+dolerolenus,taxon name,0,81,d9b99c7d-685d-4acb-8013-487554a49ebc,""
+dorsal,position,0,82,212027cb-5e72-439e-bda8-c5d1a246b95a,""
+doublure,structure,0,83,f6259eb1-454d-4a93-9ae3-ac5e52383db2,""
+downsloping,orientation,0,84,7a616aba-7c88-4417-ac74-33c8ae151969,""
+drepanopyge,taxon name,0,85,0aa97eef-c6cd-46e7-86f2-fb7e93a867bd,""
+eccaparadoxides,taxon name,0,86,0fa83630-eec5-4ae5-bd74-8da8a24cc200,""
+edge,structure,0,87,6f989380-435d-4416-bd8c-df184ac2c017,""
+effaced,prominence,0,88,685616de-4673-4574-8610-5ec5cce86542,""
+ellipsocephaloidea,taxon name,0,89,8e04c61e-a536-4f63-9f32-3e194b9f0987,""
+end,structure,1,90,69503708-4927-4c19-b796-db3a38064621,""
+enlargement,size,0,91,3d6347d8-f0b9-4f14-958f-0c51f8956779,""
+eodiscoid,structure,0,92,a4ab2ab9-d53a-4097-a068-cfffc4888806,""
+eoredlichia,taxon name,0,93,e5175385-b71b-41af-b9e8-269cc13eb0f3,""
+equal,size,0,94,1aef3d60-24f7-4dd5-8deb-b1e30eb4aea0,""
+exoskeleton,structure,0,95,48a7bdb1-9d39-4e44-aa6d-55e015418365,""
+expanded,size,1,96,194e0d69-ae41-48d9-89bb-d9c0760bd18e,""
+extraocular,structure,0,97,a08937a8-33c3-4312-9f6a-29bca9767a37,""
+extremities,structure,1,98,ff780941-e3f6-4342-8f90-70ebf75f0d3a,""
+eye,structure,1,99,a6b4791e-bcdb-48a2-95ef-686f97570e23,""
+f1,structure,0,100,895f82a8-d789-4f36-a8ea-3971e68a4de8,""
+f2,structure,0,101,cd0f7b21-0949-4869-bf63-1c5efa998bc0,""
+f3,structure,0,102,2871f2e0-47c0-40e7-8158-bb0d21466466,""
+face,structure,0,103,47f13e6e-f08b-4e4b-a8d1-edb00616fa0c,""
+facet,structure,1,104,be69a622-a340-462b-9030-8d66cad2db02,""
+falcate,shape,0,105,d1c06f1c-e414-4c52-b733-aed62596400f,""
+fallotaspidoidea,taxon name,0,106,95d5454c-1b58-4b63-9922-878751ede5be,""
+field,structure,1,107,a551a9e9-5f69-48e7-b94e-20da1afb7887,""
+fixigena,structure,1,108,49704a16-cf6d-467a-9983-b51a2dcf8b6c,""
+fixigenal,orientation,0,109,02f62f57-7fd1-40d9-aefb-37ec1b482e8e,""
+flange,structure,0,110,e5e65d79-4246-4846-a6d7-492836eca04b,""
+flanks,structure,0,111,af545656-d3ca-4351-940d-4af0006b5c14,""
+flasklike,shape,0,112,21e98850-3d00-4abc-804e-adcbe6f470a7,""
+fossula,structure,0,113,a8f2c163-c040-450b-b57e-59cdac098f99,""
+fourth,count,0,114,f0752937-aaef-4b3f-919a-82eaf3408158,""
+front,position,0,115,4454a14a-5b6e-4632-95c2-9ee9dac85037,""
+fulcral,position,0,116,476f2293-2409-4027-9cda-10572618ceb0,""
+fulcrum,structure,0,117,d3e83ade-0fbc-4341-8244-12c9ac13472e,""
+furrow,structure,1,118,6108c924-4cde-4713-abbc-442ffa04b5b4,""
+galbagnostus,taxon name,0,119,cb787321-3102-4fdd-8e18-b547e65b31ae,""
+gap,structure,0,120,4cf0cf3d-1b4d-4988-a6dd-d50e03c3c146,""
+gena,structure,1,121,adf72a4b-1046-4ea3-9eee-f38f7077b992,""
+genera,structure,0,122,906720e5-65e3-4ce0-af86-163e527245b6,""
+glabellar,position,0,123,d890c2e1-3553-475b-b249-9d4abe4b6b4c,""
+granule,structure,1,124,7e9518ba-9120-4b69-8195-2008e6b841c8,""
+granulose,surface sculpture,0,125,e93a5c49-312a-44ce-8f1d-e7e3a1d28b7d,""
+groove,structure,1,126,e780320c-fcb3-4458-8eff-56610ed85e44,""
+half,size,0,127,dc2e7321-3814-4f6e-8374-a53872d0ce14,""
+hexagon,structure,0,128,5357e7bb-2def-4fb4-a750-59fbd113ce9e,""
+hexagonal,shape,0,129,ce35a83d-d52d-4955-aab5-6c0e4817cbe8,""
+hindmost,position,0,130,a44e0029-375f-4a15-8f05-41ad16ef23b5,""
+holaspi,taxon name,0,131,db25c80d-feb6-42ba-818e-f86877d50cbf,""
+holaspides,taxon name,0,132,d6fab039-22f9-43c0-b3d5-de84f831440c,""
+holaspis,taxon name,0,133,4e70db91-8ffe-43fc-b3c1-99088dc4863a,""
+holotype,structure,0,134,4a37d265-13a6-4f02-aa46-52624779b3e4,""
+hongshiyanaspis,taxon name,0,135,26c6daef-1c4e-4023-a33f-dbca9581167f,""
+hypagnostus,taxon name,0,136,4283344c-080c-4816-9a1d-2d2eb7076a2c,""
+hypostome,structure,0,137,ee7d6513-7693-4eb9-af46-c83b71ab8bdc,""
+impressed,shape,0,138,695fcceb-f239-45f6-8707-7f7fc64bbc2f,""
+in_dentations,structure,0,139,8b65471a-b212-4aeb-a796-4e72199fd2ac,""
+incipient,prominence,0,140,20f2835e-76f8-4088-b451-d9074bda8113,""
+incomplete,preservation,0,141,8dbb82c9-39eb-4724-8e38-30f9954c0ddf,""
+inella,taxon name,0,142,fd176225-312d-4d19-b23e-5d1755ea04a9,""
+innitagnostus,taxon name,0,143,782ae26b-76dc-4aba-8bd5-35e73399b61a,""
+intergenal,position,0,144,4ce7c5ec-c5b6-4e84-a5c2-da46a670e716,""
+interpleural,position,0,145,5492000e-d68e-4433-b222-e443919722c9,""
+intranotular,position,0,146,e29b8f4b-b3c1-44e6-a589-a56d40b3d129,""
+isopygous,size,0,147,28154135-19d6-4b79-97d4-53d1b6e64ec2,""
+ivshin,structure,0,148,4f2136c3-353c-4d1c-a0ad-6fc99b8a6472,""
+k,taxon name,0,149,94156227-4201-4a25-89cc-fcbe8eb229dc,""
+keel,structure,0,150,9a473fa7-eca9-4415-9cc8-7d1189840720,""
+kepingaspis,taxon name,0,151,17a20b94-8789-4bca-8f88-7ae755c283ac,""
+kingstoniidae,taxon name,0,152,77820c94-e9ea-42fd-82e8-d4d2bae587e8,""
+knobs,structure,0,153,ebbc1c9d-7304-410e-9483-67d427cd5e0a,""
+l,structure,0,154,6775e8d0-a1f6-4021-9ee5-bec4955bdb60,""
+l1,structure,0,155,012d838a-bad9-47a5-a98a-e017c572571b,""
+l2,structure,0,156,0eebbc86-941a-4e3a-956a-23d054dd46df,""
+l3,structure,0,157,7d6705d8-151b-4184-9512-68b80f80837c,""
+l4,structure,0,158,b0bfa539-883a-48d3-92be-c8972dbf4c15,""
+la,structure,0,159,b667f086-15c5-487a-a3dd-1c342e156848,""
+large,size,0,160,3c76a2a3-bdd6-4f77-b529-89c728e946dc,""
+least,prominence,0,161,474c3550-a252-4b28-91c4-f1b391fb06d6,""
+lense,structure,1,162,472fb3e5-1f6d-4327-ae5c-c2c80e3bc079,""
+librigena,structure,1,163,bbfba9e5-10ca-4c0f-b5a9-b662517ee11e,""
+librigenal,position,0,164,96ecd818-4dbc-4834-9ae5-ad1413aeda0b,""
+limb,structure,1,165,0a3ff028-1d0f-4179-b554-f19802b38fc8,""
+line,structure,1,166,0ef1dbf7-390a-4cd6-8541-8efd8ed89168,""
+lirae,structure,0,167,5ac5a668-2246-4cbb-8de8-673fc155f873,""
+lo,structure,0,168,ba16e0e3-9cdb-4b7a-9c53-ac7e7bfa54d5,""
+lobe,structure,1,169,63e196b2-b1ae-42e5-b1b4-07abd40537cf,""
+long,length,0,170,60196af8-3055-4d24-81e4-0989f656f833,""
+lost,prominence,0,171,c505c0bb-e73f-40c1-aafa-9d41317e2634,""
+lunate,shape,0,172,4c80f74e-12c7-43b7-8f29-13012d8c6438,""
+m1,structure,0,173,128d0214-b817-48b2-bbeb-7815b3e45ea0,""
+m2,structure,0,174,805f90a9-43a7-4aa1-b972-04bea711f4db,""
+macropleurae,structure,0,175,03fc9c0f-7507-43b2-9d60-a537d1d291a0,""
+macropleural,structure,0,176,96ff70d8-f912-4ddf-b4e3-03c84f9586db,""
+macrospinose,structure,0,177,c2c137b0-0f31-4f58-8e89-3caefadd27d3,""
+macu_lae,structure,0,178,8fc262f4-0765-4836-98f4-e4fd773fadff,""
+mallagnostus,structure,0,179,6f139ce9-9211-4315-9a1a-3f092463291a,""
+margin,structure,1,180,f1d50ae4-3f86-4190-b5ca-90ca17661d24,""
+marginal,position,0,181,c11dfd4d-59c8-419e-b189-66cd6005469e,""
+markings,structure,0,182,5af3f101-dd20-42c4-a1fa-6a59ef0cb5f3,""
+mayiella,taxon name,0,183,292d37c8-8ee9-4c29-b972-20aed89a8e5f,""
+medium,size,0,184,8b809bcb-ff2e-4562-b0c2-6fe01c211f3b,""
+meraspi,taxon name,0,185,1e0bc192-0409-4bff-a8a8-17d5d0836065,""
+meraspis,taxon name,0,186,c6c14163-8b4e-4202-aa77-e3e90a4e3159,""
+metadoxides,taxon name,0,187,05a3fca5-23fb-4d8b-aadb-441d9ddbc573,""
+metaredlichia,taxon name,0,188,10cee50f-c059-43da-9a39-02a49ab65682,""
+middle,structure,0,189,b7cad95c-afaa-4050-bcf8-2ea6df1568de,""
+midlength,position,0,190,55c8dc33-e222-4dd2-b361-561451335e5f,""
+midmost,position,0,191,121a9218-a133-446c-bc7b-dd7e2bfac131,""
+moderate,size,0,192,fd74a822-a262-458f-bfef-ce7a3ea1aed8,""
+modified,prominence,0,193,3f0b534c-ec98-4e7d-af6f-39f691fbd34c,""
+mold,structure,1,194,15dabb9f-1c7f-45ec-bf2f-06fd055748d9,""
+morphology,character,0,195,3ca2bd4c-fd95-40df-9578-b89190c83b59,""
+mouth,structure,0,196,bc673614-c4ee-452e-b554-ff1e59296d00,""
+multisegmented,segmentation,0,197,6689e2c8-8e8d-40f7-9952-9d3d39208488,""
+narrow,width,0,198,27919765-1506-486b-a790-79ccc89758f5,""
+natant,growth form,0,199,b6207a38-2cbe-492e-866d-1573d7cbc272,""
+no,prominence,0,200,73293239-915f-4248-bc9f-c3e795045913,""
+node,structure,1,201,6c7bc382-55f4-42f3-8d4b-5adc9efef8a6,""
+nonscrobiculate,surface sculpture,0,202,cdeb0320-ee1c-4b1a-8c9b-c3b457474bb4,""
+nonspinose,surface sculpture,0,203,1ac501a7-ba74-44e2-bf15-78f61bf07ab1,""
+notch,structure,0,204,86301e23-60b2-4ef9-b411-047149dbfe4f,""
+notular,position,0,205,742e517f-146e-4c9b-999d-1610997d1e58,""
+numbering,count,0,206,52db1013-34e3-4086-befb-61ee68f69da6,""
+occipital,position,0,207,df1128d2-6b52-44fe-bebe-d0412c096cc3,""
+ocular,structure,0,208,2495f1cd-f877-423c-9063-383c707dfcd4,""
+olenellina,taxon name,0,209,a92c68a9-bd51-4bab-9790-20fb843d4e80,""
+olenellinid,taxon name,0,210,39a7b707-5e93-4f0f-8b1c-6dc908884baa,""
+one,count,0,211,ccfee437-e262-4532-913c-15fcd90254b3,""
+oodiscus,structure,0,212,1edeb4c1-6eb0-4b4a-b2e7-ea6a3048757c,""
+opisthoparian,structure,0,213,1954bd58-5817-4805-8921-78031d8267ba,""
+opisthothorax,structure,0,214,5f8fa6ca-fb50-45d3-a5f7-fcfbfeb86dc7,""
+ornament,structure,0,215,36475826-0ebd-4ffc-af78-f031c2d81e6b,""
+ovate,shape,0,216,c061345a-9b9b-4799-be68-84d90251e49f,""
+pagetia,taxon name,0,217,54901ba4-7f04-43b2-9216-75bc9ea4d683,""
+pagetium,structure,0,218,e2a935a2-4ea1-4fd8-b8ff-85b4f91a4bf7,""
+palpebral,structure,0,219,211d16fa-f4a3-4b49-b2a6-e4c195983758,""
+papilionate,shape,0,220,88eef33b-49e7-42dc-a27f-aa76d62e4f91,""
+parabadiella,taxon name,0,221,9e908625-bc60-4028-b7a4-b8a0cef11c2c,""
+parabolic,shape,1,222,a882bbe6-a590-4ed8-8501-4784917e5e62,""
+paradoublural,structure,0,223,184b0772-1d44-4bbe-81be-656ca1faac6b,""
+paradoxididae,taxon name,0,224,286c7304-f3ea-4c44-ae36-3163b2857c4e,""
+paratype,structure,0,225,52a20000-c8d8-4427-b20d-f89561e0ae88,""
+paratypes,structure,0,226,e35a535c-fed6-4657-a6f9-c514b290bb1b,""
+part,structure,1,227,decced6d-7564-4a7e-abb1-bfc4d26de6f1,""
+perforations,structure,0,228,092b95f2-5611-423f-a75d-ce4519ff591d,""
+peronopsis,taxon name,0,229,976f20fd-ac5f-410a-bb78-b6643c91f235,""
+perrostral,structure,0,230,5c9d35f3-6a2d-422b-b6d5-6eddf6d3bd53,""
+piece,structure,0,231,485cfd39-03e7-4514-a8de-c0b76af43b54,""
+pit,structure,1,232,07bdca26-4c0f-494b-b3b1-057a9b169e3b,""
+pitlike,shape,0,233,7bc1db9d-98e6-4c8a-9eb7-5930f9af8d7d,""
+plate,structure,0,234,252b8aa9-9425-46b8-9190-842b0c2f724a,""
+plectrum,structure,0,235,e4c5e834-ded3-44ab-ab64-08384190b12b,""
+pleura,structure,1,236,f3a75c14-7c68-49a8-a251-e216f258dea4,""
+pleural,structure,0,237,7e1954a0-f879-4b4d-9503-01c4b61aa946,""
+plutonides,taxon name,0,238,16fce42b-0f0f-4db8-9f22-abbe298e5c66,""
+polygon,structure,1,239,94d149c8-040c-47bc-b375-f5c97a98794a,""
+portion,structure,1,240,62b9590b-3f6f-498c-b0b2-eb6f12ab1434,""
+postaxial,position,0,241,3cb28883-4095-450f-ab0d-1465965c53fd,""
+posterior,position,0,242,11b0211a-f9b1-42aa-9f6a-699d9b1152d9,""
+posteroaxis,structure,0,243,0f9de224-cb11-4001-91b9-777127718b7f,""
+preglabellar,position,0,244,81ca3b27-8672-4557-aa59-0462a7298139,""
+procranidial,position,0,245,b976908d-eeed-4cdb-bd85-2613467e2aef,""
+projection,structure,1,246,8ce54dfb-18af-4c9f-8435-b5247e76b1b9,""
+proparian,position,0,247,772eb9c5-d699-475f-badc-767cfd84c282,""
+prosopon,structure,0,248,edc8dc3f-1a31-4521-9d9a-b33473a7f7ac,""
+protaspi,structure,0,249,69f2c819-5744-4647-a563-9218a8ab2c53,""
+protaspide,structure,1,250,bc511ebf-c243-45d8-bc49-fa83a95abadb,""
+protaspis,structure,0,251,e52330ed-33c5-47df-9069-057ccd946006,""
+protrusion,structure,0,252,0fab076b-23a0-48e0-aeeb-244d9a46438d,""
+pseudagnostines,taxon name,0,253,e41cc292-9889-4965-9853-9a02236c7c8f,""
+pseudoborder,structure,0,254,618b6cfd-326e-4c25-baa1-e1a6caef1f72,""
+pseudopalpebral,structure,0,255,110b12f2-5172-4fab-8cad-dd3e52f810fb,""
+pseudoresserops,taxon name,0,256,b772f848-0424-4fe9-9655-f03a5ff8eb0a,""
+pus_tules,structure,0,257,3b3dd313-7919-4d3c-8afa-2ce0a0cbe565,""
+pygidium,structure,1,258,653eab0c-43f6-42ba-9761-6de616a228e5,""
+pygidial,position,0,259,89b71d1b-dddd-4be6-8620-f0be68c722b2,""
+pygidum,structure,0,260,f7f6adf7-d275-438f-9555-16dbfd52b551,""
+rear,position,0,261,1ce8ffac-e10c-4711-907b-418febfd01da,""
+rearwards,orientation,0,262,63e5a81b-8cab-4f5a-859d-4852e14f612d,""
+redlichiidae,taxon name,0,263,268be046-082e-49a2-8f75-2ec79c263065,""
+redlichia,taxon name,0,264,6637725c-a67d-4cf4-b8cb-7164055e460a,""
+redlichiina,taxon name,0,265,5f6093c8-98ee-4d42-9908-b4d9ebaa46f5,""
+region,structure,1,266,46f11048-5ec4-40cf-8197-b0a2cadb8573,""
+rhaptagnostoid,structure,0,267,10bd4efb-762b-46fc-8582-024d8fe8335d,""
+rhaptagnostus,taxon name,0,268,2b87d354-121b-4d2a-8c7c-e5ee260305a4,""
+rib,structure,1,269,652c8719-0925-42de-bb83-daae330408d2,""
+ridge,structure,1,270,c2aedc1d-85f3-43f5-9271-1a8d8145723a,""
+ridgelike,shape,0,271,30fd2084-a066-4b9d-b6b1-79739b930ebc,""
+rimlike,surface sculpture,0,272,38947a47-db32-4f15-99dd-65f414bd6619,""
+rings,structure,0,273,9b8592ee-1b0e-4497-b35e-8adc7b2b6b92,""
+rosette,structure,0,274,eeebf14d-908e-4a39-804a-1668cd77d868,""
+rostral,position,0,275,6255256d-ba68-4c90-82ce-f7576177d5d5,""
+roundish,shape,0,276,2709d90e-59bd-46e7-a39c-f4d7d1a25550,""
+s,structure,0,277,47b4b213-7391-428e-9682-2956ba8f8e02,""
+s2,structure,0,278,1d298287-d172-4ccc-8be4-f692e6fdb800,""
+s3,structure,0,279,0abb4c2b-9441-492c-a1ba-c1e0ff53bca3,""
+saukianda,taxon name,0,280,8b7d4451-ebcd-4aaa-bfd2-d86ef9daae49,""
+scrobicule,structure,1,281,9d80beeb-3d23-4ee1-8e49-26e5f34e0718,""
+sculpture,structure,0,282,006a0599-dec4-4ec8-a6ba-1f655d93166a,""
+section,structure,1,283,6e918e9a-ed0a-4bc7-b6c1-0d677249985d,""
+segment,segmentation,1,284,cad2ccab-77c4-4360-a48e-2846955c01fa,""
+segmentation,character,0,285,5c44b1df-9ff8-406b-ba41-3aecaeffcfb6,""
+semiankylosed,fusion,0,286,f076caae-49ec-4b9c-bbb1-5dac92f202a8,""
+semicircular,shape,0,287,0a0bc64a-288b-4a66-bb94-25e0a59bcad8,""
+semielliptical,shape,0,288,616a50b9-4538-4162-933c-20930967b008,""
+serrated,surface sculpture,0,289,e1b567db-dd23-4270-b446-0ad7ce229a36,""
+serrodiscus,taxon name,0,290,3ebb2f70-df0e-407d-beb3-8d475ae7d6cf,""
+shaped,shape,0,291,a734f1cf-4a91-414f-90d2-f80965f456dc,""
+shield,structure,1,292,5dd7a5a4-7ad4-4896-8141-bd8499225692,""
+short,length,0,293,c712d19b-6ea2-444f-9dc7-008403efdb7d,""
+shortened,size,0,294,88fa3141-8c68-4dbd-a26d-45b31346e738,""
+sided,structure,0,295,40adcef8-6ed4-4efa-8135-f7890f76bb70,""
+sigmoidal,shape,0,296,19075332-5fd5-48ab-95c5-90a300e65ed5,""
+simplimarginate,shape,0,297,e8a9830c-01b2-41e7-ad75-1b90ee93859a,""
+sinuous,shape,0,298,738fc92b-d561-4bcd-9dd6-f8fdd2f0dd0d,""
+size,character,0,299,f9d45a91-901a-4c06-b98c-4e553210c4bb,""
+sized,size,0,300,79363261-9699-4e5e-8eef-44cb718fb2e8,""
+slit,structure,0,301,a3eda2f7-24a1-4f04-b070-155de3dde634,""
+slitlike,shape,0,302,e065e3d2-2d7f-40f6-8d88-498a459dfd21,""
+small,size,0,303,26d88def-c990-4542-9230-fc2f644976fe,""
+smooth,surface sculpture,0,304,24f218ee-dfa7-4ba4-8bd1-fd06d9c16a07,""
+species,structure,0,305,f1a5c3a3-a8bf-4c09-8665-5239aceb432b,""
+specimen,structure,1,306,ffa1c2a7-877b-4a4d-88b4-3f9867f68bf1,""
+spectaculate,shape,0,307,d593df60-144c-4b38-90f4-1f29aa4fca3c,""
+spine,structure,1,308,04cac1ae-c86c-4e5b-b387-4d8483125960,""
+spinose,surface sculpture,0,309,c695f869-35da-4194-9574-9db600eef346,""
+spinulelike,shape,0,310,db2e62d5-cefc-4bb2-8531-e02598718b39,""
+straight,shape,0,311,f8d752ec-7375-4c9f-8564-1d226551ec97,""
+striations,structure,0,312,eedecfcc-5c23-40c7-aa66-9ecfa6ffc478,""
+striga,structure,0,313,8ba37a73-4bc3-4d28-ad62-8f6700733b5d,""
+structure,character,0,314,4f376f9b-8ebd-49ee-9006-a83d1486e6c9,""
+subcentral,position,0,315,2389bc89-5d0a-4b74-9740-63b3b16aac0b,""
+subcircular,shape,0,316,74c655ec-8871-41a0-9890-33a3410653be,""
+subfamily,structure,0,317,9f13b488-5e72-4e43-9e67-bfeceff9f49c,""
+suborder,structure,0,318,d12d56e9-41e1-4796-857b-a37c5c7eb202,""
+subparallel,shape,0,319,9317fa31-2454-4907-babb-e603a3d1b67c,""
+subpyriform,shape,0,320,d664ce94-f335-48cd-b19a-7fcb013ee0ba,""
+subquadrate,shape,0,321,c017f7ff-68fc-4430-b5dd-a80626c82732,""
+subrounded,shape,0,322,55d6cc90-8862-4cc5-af74-47a7026b81ab,""
+subtriangular,shape,0,323,7ba852a8-b72d-48f6-9392-b57c8b8e673b,""
+sulcus,structure,0,324,bac8c003-a04a-4d9d-bfc8-3275bf3b2a24,""
+superfamily,structure,0,325,af2caa3c-144f-43ce-8281-95bc2b0dea6c,""
+suture,structure,1,326,241c9af7-cc8b-49f3-a67a-c48d6f86cc38,""
+swelling,structure,1,327,919f7fc9-3c58-48ba-9661-84d023f42419,""
+tapering,shape,0,328,293c53ff-be28-424b-8d9f-7e77ead41d45,""
+tasagnostus,taxon name,0,329,9f2e76f7-6b47-4bd4-b0c5-192dfd2b8d1f,""
+taxa,structure,0,330,96f40cfe-1d2a-4e74-bb4f-c4928621e563,""
+terminal,position,0,331,5c4d5099-4869-49c9-a7a3-720878f2340b,""
+terminations,structure,0,332,32e1b66c-2b93-48e9-a231-5af12c34720b,""
+terminus,structure,0,333,127a1374-2d90-4823-aabf-ac7ba6a109f8,""
+terrace,position,0,334,dbc0a380-b57d-494e-b9eb-749b961a874d,""
+third,count,0,335,6af5e690-3b6d-4ce4-8127-ee8af85340b4,""
+thorax,structure,0,336,9f085e52-b4a6-4cdd-b31a-e4e1c2498265,""
+thornlike,shape,0,337,9ae60756-430e-47a3-ae04-4497a2695b8b,""
+tip,structure,1,338,459e4b69-c646-4b1d-8afe-5e268ac3771a,""
+transverse,orientation,0,339,f1f0f7c5-cbd6-4921-bba7-8aa3f88576e0,""
+triangulaspi,taxon name,0,340,e984a551-553d-458c-8204-0a5a8a5fcd8d,""
+triangulaspis,taxon name,0,341,bf672926-9d77-4066-a933-7180bfba95aa,""
+triannulate,shape,0,342,e5d3f770-512e-4872-ae14-099dc35fe483,""
+trifid,shape,0,343,9f6229ac-82e8-42f6-8911-6eb2f6d3248f,""
+trilobate,shape,0,344,d3751aa7-c784-4025-8813-626fb5e26aba,""
+trilobite,taxon name,0,345,6f9f382e-2f56-4a56-be16-216012f255aa,""
+trilobites,taxon name,0,346,46c1d72a-4387-4716-923e-f15bc7240355,""
+tripartite,position,0,347,43f49d96-885a-4e4a-ad8b-9998a5624c19,""
+trisegmented,segmentation,0,348,f1149d50-575e-4669-9f44-ab6fa7de7d95,""
+tubercle,structure,1,349,4ab0e678-dd36-4759-ae6d-e10b3597ef13,""
+uncalcified,surface sculpture,0,350,6eefea66-e319-4da6-ae64-b3ca5004d894,""
+undivided,fusion,0,351,8f743e94-c43e-44fa-a96b-a611d1789d19,""
+unfurrowed,structure,0,352,f832b6e1-570f-4045-a746-d5f69118ea52,""
+ushbaspis,taxon name,0,353,f998b490-297e-4526-be69-1f9baab913cd,""
+venter,structure,0,354,c976cdb6-6cb6-4b55-bf75-84519de47f28,""
+weak,prominence,0,355,c39f8b6d-a33e-43b0-b072-895d9de39e9e,""
+wing,structure,1,356,d288f0ad-be50-4f73-8f4b-d45ac7be6048,""
+wutingaspis,taxon name,0,357,fb134d0e-cde2-4809-a392-051607d12eae,""
+yiliangella,taxon name,0,358,f0e15807-77b3-44b1-a0d1-a17b57fd9893,""
+yinites,taxon name,0,359,36b00abf-39a3-43bf-b72c-b04b90293383,""
+yukoniidae,taxon name,0,360,2be3929a-666e-465a-b931-c06d6e501ea1,""
+yunnanaspis,taxon name,0,361,44fcd54b-cb2c-4524-a18f-6cb9a6af4714,""
+zonate,structure,0,362,fc76ba12-b193-46b7-9147-16d950c68237,""
